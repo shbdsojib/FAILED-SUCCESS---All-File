@@ -1,0 +1,6 @@
+Severity	Code	Description	Project	File	Line	Suppression State
+Error	C2872	'byte': ambiguous symbol	SINKI CHEAT	C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\wbemcli.h	1268	
+
+Severity	Code	Description	Project	File	Line	Suppression State
+Error	C2872	'byte': ambiguous symbol	SINKI CHEAT	C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\wbemcli.h	1274	
+
